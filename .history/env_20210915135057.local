@@ -1,0 +1,9 @@
+
+REACT_APP_API_KEY="
+AIzaSyBMBkNZhLRTZREWrzDO7TMYai3T7zUMJHE",
+REACT_APP_AUTH_DOMAIN= "new-letmeask.firebaseapp.com",
+REACT_APP_DATABASE_URL="https://new-letmeask-default-rtdb.firebaseio.com/"
+REACT_APP_PROJECT_ID="new-letmeask",
+REACT_APP_STOREGE_BUCKET="new-letmeask.appspot.com",
+REACT_APP_MESSAGING_SENDER_ID="578430954190",
+REACT_APP_APP_ID="1:578430954190:web:cfcb59d9e558e447797e9f",
